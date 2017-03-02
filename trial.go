@@ -12,3 +12,7 @@ func Fizzbuzz(i int) (result string) {
 	}
 	return result
 }
+
+func Burden() bool {
+	return true
+}
